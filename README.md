@@ -35,14 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CadenAL&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadenAL&layout=compact" />
-</p>
-
----
-
 ## 🚀 Featured Work
 - Java Data Structures and Algorithm Projects
 - Simulation Programs using Queues, Trees, and Design Patterns
