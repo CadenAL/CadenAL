@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caden</h1>
-<h3 align="center">Computer Science Student | Software Developer</h3>
+<h3 align="center">Computer Science Student | Software Developer | Project Manager</h3>
 
 ---
 
