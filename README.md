@@ -5,6 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student focused on **software engineering and systems programming**
+- ✏️ Currently Practicing being a **Developer and Project Manager**
 - 🌱 Currently improving **Algorithms, Advanced Java, and System Design**
 - 💻 Interested in **Backend Development, Simulations, and Operating Systems**
 - 🎯 Goal: **Software Engineering Internship**
